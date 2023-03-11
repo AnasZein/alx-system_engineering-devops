@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv --no-config --vo=tct https://ia800204.us.archive.org/14/items/StarWarsIVANewHope/Star%20Wars%20IV-%20A%20New%20Hope.mp4
